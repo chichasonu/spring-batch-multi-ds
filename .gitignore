@@ -1,0 +1,75 @@
+Skip to content
+ 
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+ @chichasonu Sign out
+ The password you provided is weak and can be easily guessed. To increase your security, please change your password as soon as possible.
+
+Read our documentation on safer password practices.
+
+3,119
+32,070 21,950 spring-projects/spring-boot
+ Code  Issues 371  Pull requests 21  Projects 0  Wiki  Insights
+spring-boot/.gitignore
+e5f8c68  on Feb 9
+@rajadilipkolli rajadilipkolli Ignore Spring tool suite 4 cache
+@dsyer @philwebb @gregturn @isopov @rajadilipkolli @izeye @wilkinsona
+     
+41 lines (40 sloc)  407 Bytes
+*#
+*.iml
+*.ipr
+*.iws
+*.jar
+*.sw?
+*~
+.#*
+.*.md.html
+.DS_Store
+.classpath
+.factorypath
+.gradle
+.idea
+.metadata
+.project
+.recommenders
+.settings
+.springBeans
+/build
+/code
+MANIFEST.MF
+_site/
+activemq-data
+bin
+build
+build.log
+dependency-reduced-pom.xml
+dump.rdb
+interpolated*.xml
+lib/
+manifest.yml
+overridedb.*
+settings.xml
+target
+transaction-logs
+.flattened-pom.xml
+secrets.yml
+.gradletasknamecache
+.sts4-cache
+© 2018 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+Press h to open a hovercard with more details.
